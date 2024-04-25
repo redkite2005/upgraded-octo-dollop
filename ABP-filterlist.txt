@@ -1,0 +1,5 @@
+[Adblock Plus]
+! Exclusion - Internal websites
+@@||paypal.com^$document
+@@||virginexperiences.kallidus-suite.com^$document
+@@||youtube.com^$document
